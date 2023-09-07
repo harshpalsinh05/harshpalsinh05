@@ -68,6 +68,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpalsinh05&theme=dark" alt="harshpalsinh05" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshpalsinh05&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">![](https://github-contributor-stats.vercel.app/api?username=harshpalsinh05&limit=5&theme=flat&combine_all_yearly_contributions=true)</p>
 
 
