@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpalsinh05" alt="harshpalsinh05" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="home-right.gif"> 
+<img align="right" alt="Coding" width="290" src="home-right.gif"> 
 
 - 🔭 I’m currently working on [Netflix Clone](https://harshpalsinh05.github.io/Netflix-Clone/)
 
