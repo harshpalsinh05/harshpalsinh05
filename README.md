@@ -61,7 +61,7 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpalsinh05&show_icons=true&theme=tokyonight&text_color=8b0495&hide_border=true&locale=en&layout=compact" alt="harshpalsinh05" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpalsinh05&show_icons=true&theme=tokyonight&text_color=8b0495&hide_border=true&locale=en&layout=compact" alt="harshpalsinh05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpalsinh05&show_icons=true&text_color=8a0094&locale=en" alt="harshpalsinh05" /></p>
 
