@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshpalsinh R Jadeja</h1>
-<h3 align="center">A passionate frontend developer from India. As a web developer, I have experience with HTML, CSS, and JavaScript. Meticulous web developer with over 6 Months of front end experience and passion for responsive website design and a firm believer in the mobile-first approach.</h3>
+<h3 align="center">Hi 👋, I'm Harshpalsinh R Jadeja</h3>
+<h5 align="center">A passionate frontend developer from India. As a web developer, I have experience with HTML, CSS, and JavaScript. Meticulous web developer with over 6 Months of front end experience and passion for responsive website design and a firm believer in the mobile-first approach.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalsinh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshpalsinh05" /> </p>
 
