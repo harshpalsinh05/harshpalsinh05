@@ -8,8 +8,9 @@
 
 <br/>
 
+<div algin= "center">
 <img align="center" alt="Coding" width="400" src="home-right.gif"> 
-
+</div>
 <div align="center">
  
  🔭 I’m currently working on [Netflix Clone](https://harshpalsinh05.github.io/Netflix-Clone/)
