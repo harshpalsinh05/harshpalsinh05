@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1 align="center">Hey Everyone 👋, I'm Harshpalsinh R Jadeja/h1
+    <h1 align="center">Hey Everyone 👋, I'm Harshpalsinh R Jadeja/h1>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalsinh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshpalsinh05" /> </p>
