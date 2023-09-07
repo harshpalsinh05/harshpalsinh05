@@ -8,6 +8,8 @@
 
 <br/>
 
+<img align="center" alt="Coding" width="400" src="home-right.gif"> 
+
 <div align="center">
  
  🔭 I’m currently working on [Netflix Clone](https://harshpalsinh05.github.io/Netflix-Clone/)
