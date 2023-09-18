@@ -24,7 +24,7 @@
 👨‍💻 All of my projects are available at [https://github.com/harshpalsinh05](https://github.com/harshpalsinh05)
 
 
- 📄 Know about my experiences [https://harshpalsinh05.github.io/My-Portfolio/](https://harshpalsinh05.github.io/My-Portfolio/)
+ 📄 Know about my experiences [https://harshpalsinh05.github.io/Main-Portfolio/](https://harshpalsinh05.github.io/Main-Portfolio/)
 
 - ⚡ Fun fact **I like to design and develop cool webiste.**
  
@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/harshpalsinh-r-jadeja-131036243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://harshpalsinh05.github.io/My-Portfolio/" target="_blank">
+  <a href="https://harshpalsinh05.github.io/Main-Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
