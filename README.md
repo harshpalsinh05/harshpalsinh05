@@ -24,7 +24,7 @@
 👨‍💻 All of my projects are available at [https://github.com/harshpalsinh05](https://github.com/harshpalsinh05)
 
 
- 📄 Know about my experiences [https://harshpalsinh05.github.io/Main-Portfolio/](http://harshpalsinh.engineer/)
+ 📄 Know about my experiences [http://harshpalsinh.engineer/](http://harshpalsinh.engineer/)
 
 - ⚡ Fun fact **I like to design and develop cool webiste.**
  
