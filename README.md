@@ -63,12 +63,11 @@
 </div>
 
 <hr/>
-
+<details>
+<summary><h3>📊GitHub Stats :</h3></summary>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpalsinh05&show_icons=true&theme=dark&title_color=fedf16&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="harshpalsinh05" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpalsinh05&show_icons=true&theme=dark&title_color=ffc852&text_color=ffffff&bg_color=000000&locale=en" alt="harshpalsinh05" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpalsinh05&theme=highcontrast" alt="harshpalsinh05" /></p>
-
-
-
+</details>
